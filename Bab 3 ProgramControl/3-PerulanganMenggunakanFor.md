@@ -120,4 +120,4 @@ printf("nilai variabel i di luar loop = %d", i); // Kode di samping akan menyeba
 ```
 Dapat dilihat bahwa variabel `i` dideklarasi pada komponen **inisialisasi** di `for statement` sehingga setelah perulangan selesai variabel `i` akan _dihancurkan_  atau dihapus.
 
-[>> Materi Selanjutnya (Perulangan menggunakan "do while") >>](3-PerulanganMenggunakanDoWhile.md)
+[>> Materi Selanjutnya (Perulangan menggunakan "do while") >>](4-PerulanganMenggunakanDoWhile.md)
