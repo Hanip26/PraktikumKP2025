@@ -1,4 +1,4 @@
-[<< Materi Sebelumnya (Pemilihan dengan "switch") <<](1-PemilihanDenganSwitch.md)
+[<< Materi Sebelumnya (Pemilihan dengan "switch") <<](2-PemilihanDenganSwitch.md)
 # 3.3 - Perulangan Menggunakan For Statement
 
 Perulangan (atau dalam bahasa inggris disebut dengan **loop**) adalah instruksi kode program yang bertujuan untuk mengulang beberapa baris perintah. Pada materi sebelumnya telah dipelajari tentang perulangan menggunakan **while statement**, kali ini kita akan mempelajari perulangan menggunakan for statement.
