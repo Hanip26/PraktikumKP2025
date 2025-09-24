@@ -201,4 +201,4 @@ Quack! Quack! Quack!
 ```
 </details>
 
-Bab 1 selesai. [Kembali ke Daftar Materi](../DaftarMateri.md)
+[>> Materi Berikutnya (Pemilihan Dengan "Switch") >>](2-PemilihanDenganSwitch.md)
