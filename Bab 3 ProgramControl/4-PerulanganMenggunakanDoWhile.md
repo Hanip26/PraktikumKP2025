@@ -1,4 +1,4 @@
-[<< Materi Sebelumnya (Perulangan menggunakan "for") <<](2-PerulanganMenggunakanFor.md)
+[<< Materi Sebelumnya (Perulangan menggunakan "for") <<](3-PerulanganMenggunakanFor.md)
 # 3.4 - Do While Loop
 Merupakan bentuk variasi dari `while` loop. Cara kerja dari `do...while` mirip dengan `while`, perbedaan yang membedakan dengan while adalah `do...while` akan menjalankan perintah yang ada di kode blok sekali sebelum melakukan pengecekan kondisi.
 
