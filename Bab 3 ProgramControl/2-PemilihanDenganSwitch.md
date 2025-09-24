@@ -1,4 +1,4 @@
-[<< Materi Sebelumnya (Pemilihan Dan Perulangan Sederhana) <<](../1-PemilihandanPerulanganSederhana.md)
+[<< Materi Sebelumnya (Pemilihan dan Perulangan Sederhana) <<](../1-PemilihandanPerulanganSederhana.md)
 # 3.2 - Pemilihan dengan Switch
 
 Kondisi SWITCH CASE adalah percabangan kode program dimana kita membandingkan isi sebuah variabel dengan beberapa nilai. Jika proses perbandingan tersebut menghasilkan nilai true, maka block kode program akan dijalankan. Switch case sangat berguna ketika ingin melakukan perbandingan untuk banyak kasus.
