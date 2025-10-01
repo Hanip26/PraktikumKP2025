@@ -106,5 +106,3 @@ Analisis rekursi di atas untuk `n = 5` yaitu:
 9. maka nilai dari hitung(5) = hitung(4) + 5 = 10 + 5 = 15
 
 Sehingga hasilnya 15 untuk n = 5 dan memenuhi 1+2+3+4+5 = 15
-
-[Menuju Daftar Materi >>](../DaftarMateri.md)
