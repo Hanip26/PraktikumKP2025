@@ -1,4 +1,3 @@
-[<< Materi Sebelumnya (Daftar Materi) <<](../DaftarMateri.md)
 # 4.1 Pengenalan Function
 
 Fungsi merupakan kumpulan perintah yang dapat menjalankan suatu tugas spesifik dengan tujuan supaya dapat digunakan secara efektif apabila diperlukan, sehingga tidak perlu menulis perintah-perintah yang sama pada kode ketika akan menjalankan suatu tindakan yang sifatnya repetitif (ini merupakan bagian dari konsep **modular** dalam pemrograman sehingga menciptakan kode atau fungsi yang _reusable_ atau dapat digunakan kembali).
