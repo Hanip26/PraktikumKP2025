@@ -1,5 +1,3 @@
-[<< Kembali Ke Silabus](../silabus.md)
-
 # 5.1 - Pengenalan Array
 
 Apa itu array? **Array** (atau larik) adalah sebuah struktur data berukuran tertentu yang memiliki kegunaan untuk menampung kumpulan data (elemen) dengan tipe yang sama (misalnya kumpulan dari nilai integer, kumpulan dari nilai float, kumpulan dari string, dll). Tentunya jumlah data yang disimpan harus sesuai dengan ukuran kapasitasnya.
