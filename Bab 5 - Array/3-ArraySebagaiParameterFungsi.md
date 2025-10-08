@@ -91,9 +91,5 @@ Kalian akan memperdalam **const** di pertemuan mendatang.
 int foo(const int* arr, int panjang_arr)
 ```
 
-[Menuju Silabus >>](../silabus.md)
-
-
-   
  
         
