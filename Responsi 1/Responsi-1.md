@@ -109,13 +109,13 @@ Pastikan **submit tepat waktu**.
 
 ---
 
-## 🌟 Tips Sukses
+## 🌟 Tips Agar Proyekmu Sukses
 
-- Rancang *flowchart/pseudocode* dulu.  
-- Pecah logika ke **fungsi** supaya rapi.  
-- Validasi input & uji berbagai skenario.  
-- Tambahkan bonus: **sorting**, pencarian, atau simpan/baca ke file `.txt`.  
-- Beri komentar seperlunya agar mudah dibaca.
+- Rencanakan ide program terlebih dahulu sebelum mulai coding.
+- Gunakan fungsi untuk memecah program jadi lebih rapi.
+- Cek ulang input dan hasil output agar tidak terjadi error.
+- Tambahkan komentar singkat pada kode supaya mudah dibaca.
+- Uji program beberapa kali sebelum dikumpulkan.
 
 ---
 
