@@ -96,7 +96,7 @@ Kumpulkan **1 file `.zip`** yang berisi:
 
 **Format Penamaan File:** `Responsi1_NIM_KodeTema_NamaLengkap.zip`
 
-Misal mengerjakan tema Perusahaan dengan kode 05 maka formatnya
+Misal, mengerjakan tema Perusahaan dengan kode 05 maka formatnya
 
 **Contoh:** `Responsi1_L0324010_05_DaffaArkhanAditama.zip`
 
