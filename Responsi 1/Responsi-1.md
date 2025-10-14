@@ -1,4 +1,4 @@
-# 🎓 Responsi 1 – Tugas Proyek Praktikum Bahasa C
+# 🎓 Responsi 1 – Praktikum Konsep Pemrograman
 
 Halo, pejuang C! 💻  
 Saatnya membuktikan kemampuanmu dengan membuat **program berskala menengah** menggunakan bahasa pemrograman **C**, yang menggabungkan semua materi penting yang telah kamu pelajari selama praktikum sebelumnya. 🚀
@@ -91,4 +91,35 @@ Kumpulkan **1 file `.zip`** yang berisi:
 1. 📘 File source code berformat `.c`  
 2. 📄 File dokumentasi berformat `.pdf`
 
-**Struktur Folder:**
+---
+
+
+**Format Penamaan File:** `Responsi1_NIM_KodeTema_NamaLengkap.zip`
+
+Misal mengerjakan tema Perusahaan dengan kode 05 maka formatnya
+
+**Contoh:** `Responsi1_L0324010_05_DaffaArkhanAditama.zip`
+
+---
+
+## 🕒 Deadline
+
+Durasi pengerjaan **2 minggu** sejak tugas diumumkan.  
+Pastikan **submit tepat waktu**.
+
+---
+
+## 🌟 Tips Sukses
+
+- Rancang *flowchart/pseudocode* dulu.  
+- Pecah logika ke **fungsi** supaya rapi.  
+- Validasi input & uji berbagai skenario.  
+- Tambahkan bonus: **sorting**, pencarian, atau simpan/baca ke file `.txt`.  
+- Beri komentar seperlunya agar mudah dibaca.
+
+---
+
+## 💬 Kontak
+
+Pertanyaan? Silakan hubungi **asprak** atau diskusi di **grup kelas**.  
+Semangat coding! 🚀
