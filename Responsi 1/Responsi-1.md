@@ -8,7 +8,7 @@ Saatnya membuktikan kemampuanmu dengan membuat **program berskala menengah** men
 ## 📘 Informasi Umum
 
 **Jenis Penugasan:** Tugas Proyek  
-**Pengerjaan:** Individu atau Kelompok  
+**Pengerjaan:** Kelompok  
 **Durasi Pengerjaan:** 2 Minggu  
 
 Kamu diminta membuat **sebuah program dalam bahasa C** yang menerapkan konsep dasar pemrograman seperti **pemilihan, perulangan, fungsi buatan sendiri, dan array.**  
