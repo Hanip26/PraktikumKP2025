@@ -1,4 +1,3 @@
-[<< Silabus](../silabus.md)
 
 # 6.1 - Pengenalan Pointer
 
