@@ -1,5 +1,3 @@
-[<< Kembali ke Silabus <<](../silabus.md)
-
 # 7.1. - Printf Formats
 
 Kalian semua pasti sudah sangat familiar dengan sebuah fungsi dalam bahasa pemrograman C yang bernama `printf()`, yang sering digunakan untuk mencetak tulisan ke _console_ pengguna. Fungsi `printf()` memberikan sebuah cara bagi kita untuk membuat keluaran yang berformat. Keluaran berformat yang dimaksud di sini adalah kita tidak mengeluarkan _string_ dan variabel yang kita berikan apa adanya, melainkan menggunakan _format specifier_ yang diperlukan supaya _compiler_ dapat memahami cara untuk mencetak _string_ dan variabel yang kita berikan. Perhatikan contoh di bawah ini.
