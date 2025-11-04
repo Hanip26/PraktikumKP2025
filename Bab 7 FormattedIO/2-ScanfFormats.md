@@ -24,5 +24,3 @@ Jika kita menjalankan potongan kode di atas, compiler akan meminta masukan ke pe
 | `%lf`              | `double`      |
 | `%s`               | `string`      |
 | `%x`               | `hexadecimal` |
-
-[>> Kembali ke Silabus >>](../silabus.md)
