@@ -246,5 +246,3 @@ Tafsiran isi file sebelum seek : 750 | 1500 | 2500 | 3100 | 4750
 Tafsiran isi file setelah seek : 750 | 2000 | 2500 | 3100 | 4750
 */
 ```
-
-[Daftar Materi >>](../DaftarMateri.md)
