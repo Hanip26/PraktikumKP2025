@@ -1,5 +1,3 @@
-[<< Silabus](../DaftarMateri.md)
-
 # 11.1 - Pengantar Preprocessor
 
 ## Apa Itu Preprocessor?
