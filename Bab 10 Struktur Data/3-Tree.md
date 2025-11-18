@@ -371,5 +371,3 @@ Menghapus semua mahasiswa ...
 
 */
 ```
-
-[Silabus >>](../silabus.md)
