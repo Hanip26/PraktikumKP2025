@@ -304,5 +304,3 @@ Weapon destroyed: M4A1
 Weapon destroyed: AK-47
 */
 ```
-
-[Silabus >>](../silabus.md)
