@@ -1,5 +1,3 @@
-[<< Materi Sebelumnya (Variable Length Argument) <<](2-VariableLengthArg.md)
-
 # C Command Line Argument
 
 ## Pendahuluan
