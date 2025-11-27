@@ -89,5 +89,3 @@ Argumen ke 1: anjing
 Argumen ke 2: dan
 Argumen ke 3: kucing
 ```
-
-[>> Kembali ke Silabus >>](../silabus.md)
