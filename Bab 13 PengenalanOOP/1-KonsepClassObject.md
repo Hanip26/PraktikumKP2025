@@ -1,4 +1,3 @@
-[<< Silabus](../silabus.md)
 
 # 13.1 - Konsep Class dan Object
 
