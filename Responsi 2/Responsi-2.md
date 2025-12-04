@@ -118,8 +118,8 @@ Sertakan:
 - Isi .zip:
 1. Source code C (*.c, plus header jika ada)
 2. Dokumentasi PDF (*.pdf)
-- Nama file zip: Responsi2_KelompokX.zip
-  Contoh: Responsi2_Kelompok1.zip
+- Nama file zip: Responsi2_KelompokX.zip</br>
+Contoh: Responsi2_Kelompok1.zip
 
 ---
 
